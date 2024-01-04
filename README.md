@@ -21,7 +21,7 @@ Me especialicé en Data Science en Henry, desarrollando habilidades técnicas en
 
 <h3 align="left">Big Data Tools:</h3>
 
-![Hadoop](https://img.shields.io/badge/Hadoop-FF7F00?logo=apache%20hadoop&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache%20spark&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apache%20hive&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FF7F00?logo=apache%20hadoop&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache%20spark&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apache%20hive&logoColor=white) ![Static Badge](https://img.shields.io/badge/Databricks-white?logo=databricks&logoColor=red)
 
 <h3 align="left">Visualization Tools:</h3>
 
