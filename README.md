@@ -6,7 +6,7 @@
 
 Mi nombre es Luis David Mendoza Castillo, soy egresado de la carrera de ingeniería de sistemas por la Universidad Nacional Pedro Ruiz Gallo.
 
-Me especialicé en Data Science en Henry, desarrollando habilidades técnicas en Python (Numpy, Pandas, SciPy y librerías de visualización), SQL, Git, Docker, NoSQL, PowerBI, herramientas de BigData y Machine Learning (TensorFlow, Scikit-Learn y Keras)
+Me especialicé en Data Science en Henry Bootcamp, desarrollando habilidades técnicas en Python (Numpy, Pandas, SciPy y librerías de visualización), SQL, Git, Docker, NoSQL, PowerBI, herramientas de BigData y Machine Learning (TensorFlow, Scikit-Learn y Keras)
 
 <h3 align="left">Programming languages:</h3>
 
